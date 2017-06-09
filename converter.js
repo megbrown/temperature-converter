@@ -88,8 +88,3 @@ chooseToCelsius.addEventListener("click", function () {
 	choiceFahren = false;
 	console.log("event", choiceFahren);
 })
-
-
-
-
-
